@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 727c652536f424136a2fa421a93402f7
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: a2bbd8bf7c99c47a69f8b7785c4a8234
+  - enabled: 1
+    path: Assets/Scenes/ListMenu.unity
+    guid: 8069486f392b04ba4b999b7d69e28a49
+  - enabled: 1
+    path: Assets/Scenes/ScanCameraScene.unity
+    guid: 3131cc47aeb314499abf9b1ac4a998d9
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStorySpiderMan.unity
+    guid: cdcf7b6004c6441b8bfc3e8a2bb9b058
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryCaptainAmerica.unity
+    guid: 8f726c07cc6a44b3295e6ed003dd0c51
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryIronMan.unity
+    guid: 502756584349b4947a1677c8cabf502c
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryHulk.unity
+    guid: 9ea0e0ed96a7a4fdda7ecf68ed690ea9
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryHawkeye.unity
+    guid: feaa39e5d8bda4189a5b91b5feb3a536
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryThor.unity
+    guid: 5016ff2a4ad1f4fedb53b9038b866fff
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryWanda.unity
+    guid: 1392163aca49f4645b4ce2c579434a01
+  - enabled: 1
+    path: Assets/Scenes/BackgroundStoryBlackWidow.unity
+    guid: 022e1ec1e690a4934877f285e112b515
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 435739d5e7fd44c2da06613733e3a6b0,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 67f48cfa10db5496f97367159f8e5b71,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 6afe8c171af7049a98328458411ba741,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: bf10dcdd410154288af876e6d326ac43,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c46f86701a98b429581e9648815e4629,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9546e2f3fcf554c59b9caa2e9d4afca4,
+      type: 2}

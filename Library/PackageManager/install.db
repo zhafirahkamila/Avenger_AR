@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "a022d4e3880f",
+        "mtime": 1719321905069,
+        "size": 139071035,
+        "localPath": "/Users/kamila/Documents/Unity-Workspace/Avengers-AR/Packages/com.ptc.vuforia.engine-10.24.4.tgz"
+      }
+    }
+  }
+}

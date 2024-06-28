@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3A9D6F93-7B35-6659-0462-C23CAE117FFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StreamingAssets/Vuforia/Marvel.xml">
+    <Files>
+      <File FileName="Assets/Scripts/BackButtonController.cs" Line="35" Column="43" />
+      <File FileName="Assets/Scripts/FirstSceneChange.cs" Line="10" Column="41" />
+      <File FileName="Assets/Scripts/ExitController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SplashController.cs" Line="8" Column="34" />
+      <File FileName="Assets/Scripts/GoButtonController.cs" Line="39" Column="52" />
+      <File FileName="Assets/StreamingAssets/Vuforia/Marvel.xml" Line="7" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c902da82-eafa-4132-817c-55c4f74e1fb0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

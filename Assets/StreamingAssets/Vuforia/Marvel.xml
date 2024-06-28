@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="BlackWidow" size="5.500000 9.777778" />
+    <ImageTarget name="SpiderMan" size="5.500000 9.777778" />
+    <ImageTarget name="Hulk" size="5.500000 9.777778" />
+    <ImageTarget name="CaptainAmerica" size="5.500000 9.777778" />
+    <ImageTarget name="Thor" size="5.500000 9.777778" />
+    <ImageTarget name="IronMan" size="5.500000 9.777778" />
+    <ImageTarget name="ScarletWitch" size="5.500000 9.777778" />
+    <ImageTarget name="Hawkeye" size="5.500000 9.777778" />
+  </Tracking>
+</QCARConfig>
