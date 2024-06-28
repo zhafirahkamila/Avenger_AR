@@ -34,7 +34,7 @@ public class BackButtonController : MonoBehaviour
             SceneManager.LoadScene("ListMenu");
         }else if(ButtonName == "ScanCamera")
         {
-            SceneManager.LoadScene("ListMenuScene");
+            SceneManager.LoadScene("ListMenu");
         }
         else
         {
